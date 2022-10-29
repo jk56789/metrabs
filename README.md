@@ -3,6 +3,7 @@
 
 
 Project Objectives
+
 *The image is analyzed using a pretrained model in real time. Images are implemented in 3D in a virtual space.
 
 
