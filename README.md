@@ -3,6 +3,8 @@ After receiving an image from a camera, a person's keypoints are extracted using
 
 ![git (2)](https://user-images.githubusercontent.com/106456346/199154697-9a6c5c9c-adb1-4fc6-9de2-4635a65420d2.gif)
 
+![git (3)](https://user-images.githubusercontent.com/106456346/199155524-7b139676-ad38-4f3a-be62-1c3d3a53cba1.gif)
+
 
 
 1.Project Objectives
