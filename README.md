@@ -1,6 +1,8 @@
 # 3D realization
 After receiving an image from a camera, a person's keypoints are extracted using a model, and the extracted points are moved to a virtual space.
 
+![git (1)](https://user-images.githubusercontent.com/106456346/199154503-f334bb5f-eb89-47c7-acae-26a4505cbd27.gif)
+
 
 
 1.Project Objectives
